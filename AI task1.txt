@@ -1,0 +1,28 @@
+1)Ai examples without data
+no AI without data
+
+2)The names of the companies that use Ai, what are they used for?
+1. Alibaba:- is used AI to predict what customers might want to buy.
+2. Amazon:-Amazon uses artificial intelligence is to ship things to you before you even think about buying it.
+3. Apple:-Apple uses artificial intelligence and machine learning in products like the iPhone, where it enables the FaceID feature, or in products like the AirPods, Apple Watch, or HomePod smart speakers, where it enables the smart assistant Siri.
+4. Facebook:-The company also uses artificial intelligence to automatically catch and remove images that are posted on its site as revenge porn.
+5. Microsoft:-They are incorporating intelligent capabilities to all its products and services, including Cortana, Skype, Bing, and Office 365, and are one of the world’s biggest AI as a Service (AIaaS) vendors.
+
+3)An example of a compiled, interpreted programming language
+-compiled :- java, c, c++, c#
+-imterpreted:-python, js
+
+4)The difference between open source, not open source
+With closed source software (also known as proprietary software), the public is not given access to the source code, so they can't see or modify it in any way. But with open source software, the source code is publicly available to anyone who wants it, and programmers can read or change that code if they desire.
+
+5)Is R a programming language?
+Yes, R is a universal programming language compatible with the Windows, Macintosh, UNIX, and Linux platforms. 
+
+6)Which languages ​​are not supported by oop?
+FORTRAN, 
+ALGOL, 
+COBOL, 
+BASIC,
+PASCAL,
+C,
+Ada
